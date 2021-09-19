@@ -1,12 +1,4 @@
-github.com/filippocam/filonummanip v1.0.0 h1:+S+RZuERk1GPgs0btyOm8rSzZkTecv2zw5P6eJdYwDs=
-github.com/filippocam/filonummanip v1.0.0/go.mod h1:Y1qfkoCnNS/gR1FY30tefyzDlQyistu0jNQJikBHKC4=
-github.com/filippocam/filonummanip v1.0.1 h1:M9/ZUxkpFmzc/FEOcd5daEvIBPMvuoFiHF5Xv4jdARw=
-github.com/filippocam/filonummanip v1.0.1/go.mod h1:Y1qfkoCnNS/gR1FY30tefyzDlQyistu0jNQJikBHKC4=
 github.com/filippocam/filonummanip v1.1.0 h1:jZV6GguXcwf7pwzVtYKw1+AR7gtp4FqesNIrjaU0Ct4=
 github.com/filippocam/filonummanip v1.1.0/go.mod h1:Y1qfkoCnNS/gR1FY30tefyzDlQyistu0jNQJikBHKC4=
-github.com/filippocam/filonummanip/v2 v2.0.0 h1:oaaZT0xtvW8gcF1i5bcmG53rl6JrLHvWrnEP90dqWaI=
-github.com/filippocam/filonummanip/v2 v2.0.0/go.mod h1:Jfz+41df9ZXdstXKgJdS+duqSnyJ31FQSTS+fLEJRGM=
-github.com/filippocam/filonummanip/v2 v2.1.0 h1:U3OOtoAXtRGAngq/bWdBGXz3p81pnWdv/OBLmVhxhOc=
-github.com/filippocam/filonummanip/v2 v2.1.0/go.mod h1:Jfz+41df9ZXdstXKgJdS+duqSnyJ31FQSTS+fLEJRGM=
 github.com/filippocam/filonummanip/v2 v2.1.1 h1:9dwsxw60eqVqpARm1HDzREtb9BUXianuFCm3fu+o2d8=
 github.com/filippocam/filonummanip/v2 v2.1.1/go.mod h1:Jfz+41df9ZXdstXKgJdS+duqSnyJ31FQSTS+fLEJRGM=
