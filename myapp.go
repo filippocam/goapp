@@ -9,6 +9,9 @@ import (
 
 func main() {
 	fmt.Println("sta vedendo Niccolò")
+	fmt.Println("sto sul nuovo branch")
+
+
 	result := calc.Add(1)
 	fmt.Println("old somma: ", result)
 	calc.Echo("ciao", "ciao2")
